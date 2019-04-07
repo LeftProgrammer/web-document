@@ -2,7 +2,7 @@
 
 [原始值](#原始值)
 
-- [String类型](#string类型)
+-- [String类型](#string类型)
 
 - [Boolean类型](#boolean类型)
 
